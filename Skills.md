@@ -1,7 +1,7 @@
 ---
 title: Skills
 layout: Skills
-description: 'I have always wanted to exploare various fields and I have been one to try different things.<br />Over these two years of my college, I have tried my hands on quite a few things. Hvae a look here.'
+description: 'I have always wanted to exploare various fields and I have been one to try different things.<br />Over these two years of my college, I have tried my hands on quite a few things. Have a look here.'
 image: assets/images/back.jpg
 nav-menu: true
 ---
