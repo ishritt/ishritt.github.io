@@ -5,11 +5,11 @@ email: ishrit.tewari@gmail.com
 title: IT's site
 description: Counting myself as a Computer-Science and Mathematics enthusiast from Lucknow, India, I have been working in both the domains for quite some time and look to delve deeper into these topics.<br /><br />As a Pre-Final year student at Indian Institute of Technology (Indian School of Mines), Dhanbad, my academic schedule allows me to explore various areas of technology and development and as you would see from my profile, I have had quite a diversified experience with the likes of projects and certifications in the fields of App-Development, Web-Development, Machine Learning and Data Science.<br /><br />Currently, I am exploring the field of Finance with an aim to be successfully able to conjoin my passion for both Mathematics and CS, owing to the vast opportunities that are present from applying ML on financial data for various applications that include, but are not limited to Earning prediction, Credit-Loss forecast, Regime change prediction, Asset management and Algorithmic Trading. I am actively looking forward for working in these areas and welcome anyone looking to collaborate on such projects.<br />Any suggestions and information related to any of the above-mentioned fields would be deeply appreciated.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: ""# the base hostname & protocol for your site
+url: "" # the base hostname & protocol for your site
 author: IT
 street_address: Indian Institute of Technology (ISM)
 city: Dhanbad
-state: 
+state: Jharkhand
 zip_code: 826004
 country: India
 phone: (+91) 9117178402
@@ -27,7 +27,7 @@ github_url: https://github.com/ishritt
 gitlab_url: 
 googleplus_url:
 instagram_url:
-linkedin_url: https://www.linkedin.com/ishrit-tewari-6b0853175/
+linkedin_url: https://www.linkedin.com/in/ishrit-tewari-6b0853175/
 pinterest_url:
 slack_url:
 twitter_url:
