@@ -6,7 +6,7 @@ image: assets/images/back.jpg
 nav-menu: true
 ---
 
-<!-- One -->
+<!-- One --
 <section id="one">
 	<div class="inner">
 		<header class="major">
@@ -37,7 +37,7 @@ nav-menu: true
 		=> Applied Data Science capstone<br />
 	</div>
 </section>
-
+>
 <!-- One -->
 <section id="one">
 	<div class="inner">
