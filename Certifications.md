@@ -28,7 +28,6 @@ nav-menu: true
 		Offered by: <h4>IBM</h4>at: <h4>Coursera</h4>
 		Courses completed:<br />
 		=> Python for Data Science and AI<br/>
-		Currently Enrolled in:<br/>
 		=> What is Data Science<br/>
 		=> Open source tools for Data Science<br/>
 		=> Data Science Methodology<br/>
