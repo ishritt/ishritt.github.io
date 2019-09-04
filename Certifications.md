@@ -6,7 +6,7 @@ image: assets/images/back.jpg
 nav-menu: true
 ---
 
-<!-- One --
+
 <section id="one">
 	<div class="inner">
 		<header class="major">
@@ -14,6 +14,7 @@ nav-menu: true
 		</header>
 		<p>I have always felt that we produce huge amounts of data in every aspect and have not yet fully exploited the power of ML and Data Science in many fields.
 		<br /> My interests in CS and Mathematics led me to delve deeper into this topic and I have focused my studies over financial data.</p>
+<!-- One --
 		<h3>Machine Learning and Reinforcement Learning in Finance</h3>
 		Offered by: <h4>New York University - Tandon School of Engineering</h4>at: <h4>Coursera</h4>
 		Courses completed:<br />
@@ -22,6 +23,7 @@ nav-menu: true
 		Currently Enrolled in:<br/>
 		=> Reinforcement Learning in Finance<br/>
 		=> Overview of Advanced methods of Reinforcement Learning in Finance<br /><br />
+<!-- One -->
 		<h3>IBM Data Science Professional Certificate</h3>
 		Offered by: <h4>IBM</h4>at: <h4>Coursera</h4>
 		Courses completed:<br />
@@ -38,7 +40,7 @@ nav-menu: true
 	</div>
 </section>
 >
-<!-- One -->
+
 <section id="one">
 	<div class="inner">
 		<header class="major">
