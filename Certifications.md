@@ -39,7 +39,7 @@ nav-menu: true
 		=> Applied Data Science capstone<br />
 	</div>
 </section>
->
+
 
 <section id="one">
 	<div class="inner">
